@@ -1,6 +1,6 @@
 # Hollie Lambert
 
-_Software engineer seeking remote role_ 🇺🇸<br>
+_Software engineer seeking remote role._ 🇺🇸<br>
 
 [Email](mailto:hollielulambert@gmail.com) / [LinkedIn](https://www.linkedin.com/in/hollielambert/) / [GitHub](https://github.com/hollielu/) / [Twitter](https://twitter.com/HollieLuLambert/)
 
@@ -13,7 +13,7 @@ Series A startup empowering people to quit drinking and build a life they love t
 - Led full-stack implementation of new [Salesforce](https://www.salesforce.com/) product in [Stripe](https://stripe.com/) payment flow increasing monthly coaching revenue by 22%.
 - Rebuilt marketing homepage with reusable [React](https://reactjs.org/) components styled with [Sass](https://sass-lang.com/) reducing daily bounce rate by 8%.
 - Ownership of all technical and process documentation in [Confluence](https://www.atlassian.com/software/confluence) for the fully remote Agile engineering team.
-- **_Technologies used:_** [React](https://reactjs.org/), [Ruby on Rails](https://rubyonrails.org/), [GraphQL](https://graphql.org/), [Apollo](https://www.apollographql.com/), [Sass](https://sass-lang.com/), [Jest](https://jestjs.io/), [Gatsby](https://www.gatsbyjs.com/), [Prismic](https://prismic.io/).
+- **_Technologies used:_** [React](https://reactjs.org/), [Ruby on Rails](https://rubyonrails.org/), [GraphQL](https://graphql.org/), [Apollo](https://www.apollographql.com/), [Sass](https://sass-lang.com/), [Jest](https://jestjs.io/), [Gatsby](https://www.gatsbyjs.com/), [Prismic](https://prismic.io/), [Styled Components](https://www.styled-components.com/).
   <br><br>
 
 **Software Engineer** @ [The Graide Network](https://www.thegraidenetwork.com/) _(Jan 2019 - April 2021)_ <br>
@@ -25,15 +25,15 @@ Early stage startup matching K-12 schools with teaching assistants for enhanced 
   - Self-service onboarding for new users reducing time spent by Partner Success team doing live onboardings by 76%.
   - Quality check tool which increased total percentage of assignments quality checked by Operations team by 18%.
   - Teacher dashboard to track assignment progress contributing to a 10% increase in assignment usage.
-- **_Technologies used:_** [Angular](https://angular.io/), [TypeScript](https://www.typescriptlang.org/), [Laravel](https://laravel.com/), [Forge](https://forge.laravel.com/), [Redux](https://redux.js.org/), [Docker](https://www.docker.com/), [MySQL](https://www.mysql.com/), [Bootstrap](https://getbootstrap.com/), [Azure](https://azure.microsoft.com/en-us/).
+- **_Technologies used:_** [Angular](https://angular.io/), [TypeScript](https://www.typescriptlang.org/), [Laravel](https://laravel.com/), [Forge](https://forge.laravel.com/), [NgRx](https://ngrx.io/), [Docker](https://www.docker.com/), [MySQL](https://www.mysql.com/), [Bootstrap](https://getbootstrap.com/), [Azure](https://azure.microsoft.com/en-us/).
   <br><br>
 
 **Teaching Fellow** @ [Fullstack Academy](https://www.fullstackacademy.com/) _(Sep 2018 - Dec 2018)_ <br>
 Coding bootcamp teaching full-stack JavaScript during 12-week cohorts located in Chicago.
 
 - Selected for 4-month paid teaching fellowship based on academic performance, peer recommendations, and technical interviews.
-- Facilitated daily workshops for 75+ students, provided daily feedback in code reviews, and managed student projects.
-- **_Technologies used:_** [React](https://reactjs.org/), [Node](https://nodejs.org/), [Express](https://expressjs.com), [Postgres](https://www.postgresql.org/), [HTML](https://html.spec.whatwg.org/multipage/), [CSS](https://www.w3.org/Style/CSS/Overview.en.html).
+- Taught daily workshops for 75+ students, provided feedback in code reviews, and managed student projects.
+- **_Technologies used:_** [React](https://reactjs.org/), [Node](https://nodejs.org/), [Redux](https://redux.js.org/), [Express](https://expressjs.com), [Postgres](https://www.postgresql.org/), [HTML](https://html.spec.whatwg.org/multipage/), [CSS](https://www.w3.org/Style/CSS/Overview.en.html).
   <br><br>
 
 ## 📚 Projects
