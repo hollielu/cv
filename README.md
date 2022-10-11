@@ -38,12 +38,12 @@ Coding bootcamp teaching full-stack JavaScript during 12-week cohorts located in
 
 ## 📚 Projects
 
-**Software Engineer + Product Manager** @ [Plyant](https://github.com/hollielu/Plyant) _(Sept 2022 - Current)_<br>
-DApp to help small-scale farmers in developing countries document and transfer land rights.
+**Frontend Software Engineer** @ [Plyant](https://github.com/hollielu/Plyant) _(Sept 2022 - Current)_<br>
+A dApp for vertical farmers to sell NFTs that represent the vegetables they grow.
 
 - Leading a team of 5 building on the [Algorand](https://www.algorand.com/) blockchain for the [Algorand Greenhouse Hack 2](https://gitcoin.co/hackathon/greenhouse/onboard).
 - Received a full travel scholarship from the [Algorand Foundation](https://twitter.com/AlgoFoundation) and [HER DAO](https://twitter.com/_HerDAO) to attend pre-hack events in Bali and Singapore.
-- **_Technologies used:_** [Next](https://nextjs.org/), [Reach](https://docs.reach.sh/), [Tailwind CSS](https://tailwindcss.com/).
+- **_Technologies used:_** [Next](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), [PeraWallet](https://perawallet.app/).
   <br><br>
 
 ## 👩🏼‍🎓 Education
@@ -51,9 +51,6 @@ DApp to help small-scale farmers in developing countries document and transfer l
 **11-week coding course** focused on Solidity.<br>
 [ConsenSys Blockchain Developer Bootcamp](https://courses.consensys.net/courses/blockchain-developer-bootcamp-registration-2021) - Remote _(Current)_ <br>
 _\*Received full scholarship as a [MGD DAO Fellow](https://twitter.com/metagammadelta)._
-
-**8-week coding course** focused on Reach.<br>
-[Ascent Lunar L1 Bootcamp](https://www.reach.sh/ascent-lunar-l1-bootcamp) - Remote _(Current)_ <br>
 
 **12-week DeFi course** helping women go from crypto curious to confident.<br>
 [SheFi](https://www.shefi.org/) - Remote _(Current)_ <br>
