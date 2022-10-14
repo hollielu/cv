@@ -39,7 +39,7 @@ Coding bootcamp teaching full-stack JavaScript during 12-week cohorts located in
 ## 📚 Projects
 
 **Frontend Software Engineer** @ [Plyant](https://github.com/hollielu/Plyant) _(Sept 2022 - Current)_<br>
-A dApp for vertical farmers to sell NFTs that represent the vegetables they grow.
+A NFT directory of vertical farms and the crops they grow.
 
 - Leading a team of 5 building on the [Algorand](https://www.algorand.com/) blockchain for the [Algorand Greenhouse Hack 2](https://gitcoin.co/hackathon/greenhouse/onboard).
 - Received a full travel scholarship from the [Algorand Foundation](https://twitter.com/AlgoFoundation) and [HER DAO](https://twitter.com/_HerDAO) to attend pre-hack events in Bali and Singapore.
