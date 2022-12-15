@@ -48,16 +48,8 @@ A NFT directory of vertical farms and the crops they grow.
 
 ## 👩🏼‍🎓 Education
 
-**11-week coding course** focused on Solidity.<br>
-[ConsenSys Blockchain Developer Bootcamp](https://courses.consensys.net/courses/blockchain-developer-bootcamp-registration-2021) - Remote _(Current)_ <br>
-_\*Received full scholarship as a [MGD DAO Fellow](https://twitter.com/metagammadelta)._
-
-**12-week DeFi course** helping women go from crypto curious to confident.<br>
-[SheFi](https://www.shefi.org/) - Remote _(Current)_ <br>
-_\*Received full scholarship as a [SheFi Scholar](https://www.shefi.org/)._
-
 **7-week course** onboarding entrepreneurs to sextech.<br>
-[SexTech School](https://www.sextechschool.com/) - Remote _(Current)_ <br>
+[SexTech School](https://www.sextechschool.com/) - Remote _(Fall 2022)_ <br>
 
 **12-week intensive coding course** focused on fullstack JavaScript.<br>
 [Fullstack Academy](https://www.fullstackacademy.com/) - Chicago, Illinois, USA _(Fall 2018)_ <br>
@@ -67,8 +59,6 @@ _\*Received full scholarship as a [SheFi Scholar](https://www.shefi.org/)._
 <br><br>
 
 ## 💃 Interests
-
-**Member** @ [Surge](https://twitter.com/surge_women), [Developer DAO](https://twitter.com/developer_dao), [SheFi](https://twitter.com/She__Fi), [Boys Club](https://twitter.com/BoysClubCrypto), [The Clinic](https://twitter.com/ClinicNFT) _(Current)_
 
 **Co-Founder** @ [Chicago Queer Sober Social](https://www.instagram.com/queersobersocial/) _(Dec 2019 - Nov 2020)_ <br>
 Hosted virtual and in-person social events in Chicago for sober curious LGBTQIA+ and non-binary folx.
